@@ -17,14 +17,14 @@ h1 {
     }
 
 .quiche {
-      text-align: right
+      text-align: right;
     }
 
 header {
       margin-right: -1em;
       margin-left: -1em;
       padding: 1em 1em 2em;
-      background: #003300
+      background: #003300;
     }
 
 .visuallyhidden {
